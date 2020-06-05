@@ -1,2 +1,2 @@
 # git_coursera
-git
+New text is here!
